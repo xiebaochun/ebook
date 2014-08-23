@@ -37,7 +37,7 @@ function getCookie(c_name){
 　　}　
 //var DEFAULT_URL = 'compressed.tracemonkey-pldi-09.pdf';
 //var DEFAULT_URL = 'http://xiebaochun.github.io/ebook/pdf/pdf.js/web/The Swift.pdf';
-var DEFAULT_URL = '../../../../'+getCookie("name")+'.pdf';
+var DEFAULT_URL = 'http://xiebaochun.github.io/'+getCookie("name")+'.pdf';
 var DEFAULT_SCALE = 'auto';
 var DEFAULT_SCALE_DELTA = 1.1;
 var UNKNOWN_SCALE = 0;
